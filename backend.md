@@ -36,7 +36,7 @@ create a directory with /app name
 mkdir /app
 ```
 
-# Download the application code to created app directory.
+**Download the application code to created app directory**
 
 First we need to download the code to the tmp directory and will unzip the code to the respective created app directory
 
