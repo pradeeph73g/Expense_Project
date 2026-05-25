@@ -126,8 +126,29 @@ Restart the service
 systemctl restart backend
 ```
 
+To check the status of the service
+```
+systemctl status backend
+```
 
+to check process
 
+```
+ps -ef | grep backend
+```
 
+to check the ports
+
+```
+netstat -lntp
+```
+
+to check whether backend service is conneced to database or not 
+
+telnet database pvt.ipadd. <portno>
+
+```
+telnet dbip portno
+```
 
 
