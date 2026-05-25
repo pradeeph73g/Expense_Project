@@ -1,4 +1,4 @@
-# Backend.
+# Backend
 
 Backend is responsible for adding values to datbase. Backend service is writen in nodejs.
 
