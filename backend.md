@@ -51,7 +51,7 @@ cd /app
 unzip the code 
 
 ```
-unzip /tmp/backend.zip/
+unzip /tmp/backend.zip
 ```
 Every application is developed by development team will have some common softwares that they use as libraries. This application also have the same way of defined dependencies in the application configuration.
 
