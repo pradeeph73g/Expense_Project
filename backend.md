@@ -15,7 +15,7 @@ dnf module disable nodejs -y
 ```
 
 ```
-dnf modulw enable nodejs:20 -y
+dnf module enable nodejs:20 -y
 ```
 
 ```
